@@ -75,9 +75,10 @@ h6 {
 
 
 a:link {
-  color: #ff3c09;
+  color: ;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
+  
 }
 
 a:visited {
@@ -87,9 +88,9 @@ a:visited {
 }
 
 a:hover {
-  color: #188216;
+  color: #ff3c09;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:active {
