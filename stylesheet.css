@@ -75,16 +75,23 @@ h6 {
 
 
 a:link {
-  color: ;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
   
 }
 
 a:visited {
-  color: #ff3c09;
+  color: white;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
+}
+
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -93,11 +100,6 @@ a:hover {
   text-decoration: none;
 }
 
-a:active {
-  color: #ff3c09;
-  background-color: transparent;
-  text-decoration: underline;
-}
 
 html  {text-align: center;
 display: block;
